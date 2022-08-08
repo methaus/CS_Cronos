@@ -1,0 +1,15 @@
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\bin\Debug\net6.0\CS_Cronos.exe
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\bin\Debug\net6.0\CS_Cronos.deps.json
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\bin\Debug\net6.0\CS_Cronos.runtimeconfig.json
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\bin\Debug\net6.0\CS_Cronos.dll
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\bin\Debug\net6.0\CS_Cronos.pdb
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\CS_Cronos.csproj.AssemblyReference.cache
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\CS_Cronos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\CS_Cronos.AssemblyInfoInputs.cache
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\CS_Cronos.AssemblyInfo.cs
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\CS_Cronos.csproj.CoreCompileInputs.cache
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\CS_Cronos.dll
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\refint\CS_Cronos.dll
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\CS_Cronos.pdb
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\CS_Cronos.genruntimeconfig.cache
+C:\Users\Estudio3\Documents\GitHub\CS_Cronos\obj\Debug\net6.0\ref\CS_Cronos.dll
